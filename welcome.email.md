@@ -29,7 +29,9 @@ Grabbing the code on another machine to edit and update it is super easy too.
 Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
 
     $ af tunnel <servicename>
+
 * * *
+
 ###### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, and Azure (private beta only).
 
 #### Support
