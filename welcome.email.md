@@ -12,6 +12,8 @@
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
 
+You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to install the AppFog Command Line Interface (CLI) tool.
+
 Creating new apps with any code on the command line with the pure REST API could not be easier.
 
     $ sudo gem install af
