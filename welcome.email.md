@@ -12,25 +12,23 @@
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
 
-You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to install the AppFog Command Line Interface (CLI) tool.
-
-Creating new apps with any code on the command line with the pure REST API could not be easier.
-
-    $ sudo gem install af
-    $ af login
-    $ cd path/to/my/app/src
-    $ af push
-
+You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the AppFog Command Line Interface (AF CLI) tool installed. You can then easily upload your content using the following commands with our pure REST API.
+```
+$ sudo gem install af
+$ af login
+$ cd path/to/my/app/src
+$ af push
+```
 Grabbing the code on another machine to edit and update it is super easy too.
-
-    $ af pull <appname>
-    $ cd <appname>
-    $ vim
-    $ af update <appname>
-
+```
+$ af pull <appname>
+$ cd <appname>
+$ vim
+$ af update <appname>
+```
 Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
 
-    $ af tunnel <servicename>
+`$ af tunnel <servicename>`
 * * *
 ##### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, and Azure (private beta only).
 
