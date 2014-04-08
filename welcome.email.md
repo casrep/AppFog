@@ -39,6 +39,4 @@ We're here to help! 7-7 PST, Monday through Friday, via [eMail](mailto:support@a
 Keep in touch! Visit our [blog](http://blog.appfog.com), [Twitter](https://twitter.com/@appfoghelp), and [Facebook](http://on.fb.me/Pg8ppT) for news and plans for the future.
 ##### We're excited you've joined the AppFog community, and we look forward to getting to know you better. Thanks again for choosing us.
 * * *
-Lucas Carlson
-
-Founder and CEO of AppFog
+######Lucas Carlson | Founder and CEO of AppFog
