@@ -8,11 +8,10 @@
 *verification token goes here*
 ```
 * * *
-#### Getting Started
+### Getting Started
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
 
-* * *
 Creating new apps with any code on the command line with the pure REST API could not be easier.
 
     $ sudo gem install af
