@@ -23,14 +23,16 @@ $ af push
 Grabbing the code on another machine to edit and update it is super easy too.
 
 ```
-$ af pull <appname>
+$ af pull <app name>
 $ cd <appname>
 $ vim
-$ af update <appname>
+$ af update <app name>
 ```
 Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
 
-`$ af tunnel <servicename>`
+```
+$ af tunnel <servic ename>
+```
 * * *
 ##### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, and Azure (private beta only).
 
