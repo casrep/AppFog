@@ -31,7 +31,7 @@ $ af update <app name>
 Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
 
 ```
-$ af tunnel <servic ename>
+$ af tunnel <service name>
 ```
 * * *
 ##### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, and Azure (private beta only).
