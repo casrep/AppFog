@@ -12,7 +12,7 @@
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
 
-You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the AppFog Command Line Interface (AF CLI) tool installed. You can then easily upload your content using the following commands with our pure REST API.
+You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the AppFog Command Line Interface (AF CLI) tool installed. You can then easily upload your content with our pure REST API.
 
 ```
 $ sudo gem install af
@@ -34,7 +34,7 @@ Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://ru
 $ af tunnel <service name>
 ```
 * * *
-##### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, and Azure (private beta only).
+##### Redundancy and global reach for your apps! One price per GB of RAM, no matter where you run: AWS, Rackspace, HP Cloud, or Azure (private beta only).
 
 #### Support
 We're here to help! 7-7 PST, Monday through Friday, via [eMail](mailto:support@appfog.com) and our [Support Desk](http://support.appfog.com).
