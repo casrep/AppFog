@@ -1,14 +1,15 @@
-# Welcome to the best PaaS for developers!
-#### Please verify your email by visiting:
+# Welcome to AppFog. Time to get started!
+### Please verify your email by visiting:
 ```
 *verification URL goes here*
 ```
-#### And input your verification token:
+### And input your verification token:
 ```
 *verification token goes here*
 ```
 * * *
-### Getting Started
+### When you're verified, you can use the following to get up to speed and start developing.
+
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
 
@@ -34,10 +35,10 @@ Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://ru
 $ af tunnel <service name>
 ```
 * * *
-#### Support
-We're here to help! 7-7 PST, Monday through Friday, via [eMail](mailto:support@appfog.com) and our [Support Desk](http://support.appfog.com).
-#### News
-Keep in touch! Visit our [blog](http://blog.appfog.com), [Twitter](https://twitter.com/@appfoghelp), and [Facebook](http://on.fb.me/Pg8ppT) for news and plans for the future.
+### Support
+We're here to help! 8am-6pm CST(GMT-6), Monday through Friday, via [eMail](mailto:support@appfog.com) and our [Support Desk](http://support.appfog.com).
+### News
+Keep in touch! Visit our [blog](http://blog.appfog.com) and [Twitter](https://twitter.com/@appfoghelp) for news and plans for the future.
 * * *
 ##### We're excited you've joined the AppFog community, and we look forward to getting to know you better. Thanks again for choosing us!
-######Lucas Carlson | Founder and CEO of AppFog
+David Gardiner | Senior Product Manager of AppFog
