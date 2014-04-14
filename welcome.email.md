@@ -8,7 +8,7 @@
 *verification token goes here*
 ```
 * * *
-### When you're verified, you can use the following to get up to speed and start developing.
+### Once you've verified your account, please check out our KB to get up to speed and start using AppFog.
 
 * [AppFog Knowledge Base Docs](https://docs.appfog.com)
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
