@@ -21,12 +21,11 @@ $ af login
 $ cd <app directory>
 $ af push
 ```
-Grabbing the code on another machine to edit and update it is super easy too.
+Grabbing the code on another machine to edit and update it is extremely easy:
 
 ```
 $ af pull <app name>
 $ cd <app directory>
-$ vim
 $ af update <app name>
 ```
 Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
