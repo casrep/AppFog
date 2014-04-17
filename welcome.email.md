@@ -8,7 +8,7 @@ Just follow these steps below to get started.
 ```
 *verification token goes here*
 ```
-Also, you can simply copy the token to your [Profile page](https://console.appfog.com/#profile).
+Also, you can paste the token on your [account verification page](https://console.appfog.com/profile/verify).
 * * *
 ##### Once you've verified your account, you can check out our KB to get up to speed and start using AppFog.
 * [AppFog Support Documentation](https://docs.appfog.com)
