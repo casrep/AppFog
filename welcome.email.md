@@ -1,52 +1,55 @@
-# Welcome to AppFog!
-Please follow the steps below to get started:
-
-##### First, verify your account:
+# Welcome to AppFog.
+Just follow these steps below to get started.
+##### First, you'll need to verify your email by visiting:
 ```
 *verification URL goes here*
 ```
-##### (Or enter the verification token directly on your [Profile page](https://console.appfog.com/#profile))
+##### And input your verification token:
 ```
 *verification token goes here*
 ```
+Also, you can simply copy the token to your [Profile page](https://console.appfog.com/#profile).
 * * *
-After your account is verified, please read our [Support docs](https://docs.appfog.com) to learn how to start using AppFog. If you don't want to read any documentation, at least read the rest of this email :-)
+##### Once you've verified your account, you can check out our KB to get up to speed and start using AppFog.
+* [AppFog Support Documentation](https://docs.appfog.com)
 
-You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the Command Line Interface (CLI) tool installed. Use the CLI to upload your source code (via our RESTful API)...
+Here are some things you can do to get started uploading content. First, you will need to install [Ruby](https://www.ruby-lang.org/en/installation) before you can get the AppFog Command Line Interface (AF CLI) tool installed.
 
 ```
 $ sudo gem install af
+```
+You can then easily upload your content with our RESTful API.
+
+```
 $ af login
 $ cd <app directory>
 $ af push
 ```
-Making changes to your app is easy -- pull it down, edit your code, and push your updates live!
+Making changes to your app is easy -- pull it down, edit your code, and push it up with just these simple commands:
 
 ```
 $ af pull <app name>
 $ cd <app directory>
 $ af update <app name>
 ```
-Tunnel into your MySQL, Postgres, or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
+Tunnel into your Postgres, MySQL or Mongo databases using [Caldecott](https://rubygems.org/gems/caldecott).
 
 ```
 $ af tunnel <service name>
 ```
 * * *
 ### Support
-Our [Support Desk](http://support.appfog.com) is staffed Mon-Fri, 8am-6pm CST (GMT-6). You should [Submit a ticket](http://support.appfog.com) using the email address associated with your account so we can quickly prioritize your ticket based on your Plan level. Our current system status and uptime report is at [status.appfog.com](http://status.appfog.com). 
+We're here to help! Our Support Desk is staffed 8am-6pm CST(GMT-6), Monday through Friday. You should submit a [ticket](support.appfog.com) using the email address associated with your account so we can quickly prioritize it based on you plan level. Our current system status and uptime report can be found at [status.appfog.com](status.appfog.com).
 
-We also recommend you subscribe to our [Twitter @appfogstatus](https://twitter.com/@appfogstatus) handle for system status notifications. 
-
-You can also search through these user-moderated forums to explore how other users may have resolved similar issues:
+You can search user-moderated forums to explore how other users may have resolved similar issues.
 * [AppFog Users Google Group](https://groups.google.com/forum/#!forum/appfog-users)
-* [AppFog-related questions on Stackoverflow](http://stackoverflow.com/search?q=appfog)
+* [Stack Overflow](http://stackoverflow.com/search?q=appfog)
 
 ### News
-For updates on what's happening at AppFog, visit our [blog](http://blog.appfog.com) and subscribe to our [@appfog](https://twitter.com/@appfog).
+Keep in touch! Visit our [blog](http://blog.appfog.com), and subscribe to [@appfog](https://twitter.com/@appfog) and [@appfogstatus](https://twitter.com/AppFogStatus) for news and plans for the future.
 * * *
-##### We're glad you've chosen us as your application hosting provider, and appreciate any constructive [feedback or suggestions](http://feedback.appfog.com/). 
+##### We're excited you've joined the AppFog community, and we look forward to getting to know you better. We appreciate any [feedback or suggestions](feedback.appfog.com)!
 
 Sincerely,
 
-David Gardner | AppFog Product Manager
+David Gardiner | Senior Product Manager of AppFog
